@@ -62,3 +62,23 @@ filtra_ncm/
 ├── venv/
 ├── README.md
 └── requirements.txt
+```
+
+##📌 Motivação
+
+Este projeto nasceu da minha experiência profissional lidando diariamente com cadastro de produtos e validação de NCM em comércios e varejos. Percebi que muitos clientes têm dificuldade em aplicar o NCM correto, o que pode gerar problemas nas notas fiscais.
+
+A ideia do Filtra NCM é automatizar essas verificações, gerar códigos de segurança, classificar produtos de forma intuitiva e tornar o gerenciamento mais fácil. Além disso, o projeto é um desafio pessoal para aplicar conceitos avançados de Python, FastAPI, SQLite, CRUD, validação de dados e testes automatizados, criando um sistema profissional e robusto que pode ser expandido futuramente com dashboards e filtros inteligentes.
+
+##📬 Créditos
+
+Desenvolvedor: Lucca Campello
+
+GitHub: https://github.com/campellodevs
+
+E-mail: luccacampello21@gmail.com
+
+Linkedin: https://www.linkedin.com/in/lucca-campello-r-santos-7a4b83344/
+
+Este projeto reflete minha paixão por resolver problemas reais com tecnologia, combinando experiência prática e aprendizado contínuo em desenvolvimento de software.
+
